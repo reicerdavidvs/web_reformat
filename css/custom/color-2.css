@@ -58,6 +58,9 @@ footer .overlay {
 footer .footer_logo ul li a {
   background: #211a0f;
 }
+footer .footer_logo a img{
+  width: 200px;
+}
 
 
 	   	/*_______ Border for Primary color ______*/
@@ -115,7 +118,7 @@ footer .footer_contact p span:before,.page-breadcrumb ul li i,.fun_facts_single_
 .include_servises .video_img .icon:hover a i,.shop_page .product_wrapper .text ul li,.best_sellers .best_selling_item .text ul li,.shop_single_page .product_details .product_top_section .item_description>ul>li>i,
 .shop_single_page .product_details .product-review-tab .item_review_content .text .sec_up ul li,.shop_single_page .product_details .product-review-tab .add_your_review ul li:hover,
 .about_testimonial .testimonial .owl-theme .owl-nav [class*=owl-]:hover:before,.main_menu .navbar-default .nav li>a:hover,.main_menu .navbar-default .nav li>a:focus,.request_quote_footer a:hover {
-  color:#fd9b28;
+  color:#008ED6;
 }
 
 
@@ -130,40 +133,40 @@ footer .footer_contact p span:before,.page-breadcrumb ul li i,.fun_facts_single_
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus,.shop_single_page .product_details .product-review-tab .add_your_review form button:hover,
 .cart .cart_btn1:hover,.cart .cart_btn2:hover,.hephaistos.tparrows:hover,.hephaistos.tparrows:focus,.ourWP_team .team_member .img_holder .opacity .icon span a,
 .faqAndNews .faq_panel .panel-group .panel-heading.active-panel .icon,.our_team_main_content .team_member .img_holder .opacity .icon span a  {
-  background: #fd9b28;
+  background: #008ED6;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fd9b28;
+  background-color: #008ED6;
 }
 
 footer .recent_news_footer .img_holder .opacity,.recent_news_sidebar .img_holder .opacity {
-   background: rgba(253,155,40,0.8);
+   background: rgba(0, 142, 214,0.8);
 }
 	   	/*_______ Border for Secondary color ______*/
 
 .company_excellance .single_excellance:hover .hexagon {
-  border-top: solid 3px #fd9b28;
-  border-bottom: solid 3px #fd9b28;
+  border-top: solid 3px #008ED6;
+  border-bottom: solid 3px #008ED6;
 }
 .company_excellance .single_excellance:hover .hexagon:before {
-  border-bottom: solid 3px #fd9b28;
-  border-right: solid 3px #fd9b28;
+  border-bottom: solid 3px #008ED6;
+  border-right: solid 3px #008ED6;
 }
 .company_excellance .single_excellance:hover .hexagon:after {
-  border-top: solid 3px #fd9b28;
-  border-left: solid 3px #fd9b28;
+  border-top: solid 3px #008ED6;
+  border-left: solid 3px #008ED6;
 }
 .about_testimonial .testimonial button:hover,.sidebar_categories ul li a:before,
 #related_project_slider .owl-nav [class*=owl-]:hover,#testimonial-sidebar .owl-dots .owl-dot span,.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus  {
-	border:1px solid #fd9b28;
+	border:1px solid #008ED6;
 }
 #google-map-area .owl-theme .owl-nav [class*=owl-]:hover,.about_testimonial .testimonial .owl-theme .owl-nav [class*=owl-]:hover {
-  border:2px solid #fd9b28;
+  border:2px solid #008ED6;
 }
 .page_list {
-  border-left:6px solid #fd9b28;
+  border-left:6px solid #008ED6;
 }
 .about_us_main_content .our_mission .single_mission:hover .icon,.hephaistos.tparrows:hover,.hephaistos.tparrows:focus {
-   border:3px solid #fd9b28;
+   border:3px solid #008ED6;
 }

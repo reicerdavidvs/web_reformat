@@ -343,7 +343,11 @@ header .header_right ul.social_icon li a {
   background-color: #fff;
 }
 .main_menu .logo {
-  margin-top:38px;
+  margin-top:25px;
+}
+
+.main_menu .logo a img{
+  width: 200px;
 }
 .main_menu .navbar-default {
   margin:0 0 0 197px;
