@@ -881,7 +881,7 @@ header .header_right ul.social_icon li a {
 /*========================== What Makes us Special ====================*/
 
 .makesUs_special {
-  background: url(../../images/home/5.jpg) no-repeat center;
+  background: url(../../images/home/principal_4.png) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   height: 420px;
@@ -944,6 +944,11 @@ header .header_right ul.social_icon li a {
 .why_choose_us .choose_us_item .icon .ficon:before {
   font-size: 36px;
   line-height: 50px;
+}
+.why_choose_us .choose_us_item .icon .fa-solid:before{
+  font-size: 36px;
+  line-height: 50px;
+  color: #008ED6;
 }
 .why_choose_us .choose_us_item .text {
   margin-left: 18px;
@@ -1209,7 +1214,7 @@ header .header_right ul.social_icon li a {
 /*============================= Awards Banner ======================*/
 
 .award_banner  {
-  background: url(../../images/home/9.jpg) no-repeat center;
+  background: url(../../images/home/principal.png) no-repeat center;
   background-attachment: fixed;
   background-size: cover;
   height:auto;
@@ -1281,6 +1286,7 @@ header .header_right ul.social_icon li a {
   font-size: 16px;
 }
 .req_callBack .req_callBackForm form input,
+.req_callBack .req_callBackForm form textarea,
 .req_callBack .req_callBackForm form  .ui-state-default {
   width:100% !important;
   height:50px;
@@ -1501,10 +1507,10 @@ header .header_right ul.social_icon li a {
 }
 /*================================ Footer ============================*/
 footer {
-  background: url(../../images/home/footer.jpg) no-repeat center;
+  background: url(../../images/home/principal_2.png) no-repeat center;
   height:auto;
   background-size: cover;
-  background-position: -197px 22%;
+  /* background-position: -197px 22%; */
 }
 footer .overlay {
   width:100%;
@@ -1715,7 +1721,7 @@ footer .bottom_footer ul li a {
 /*=============================== Inner Banner =====================*/
 
 .inner_banner {
-  background: url(../../images/home/inner-banner.jpg) no-repeat center;
+  background: url(../../images/home/principal_3.png) no-repeat center;
   background-size: cover;
   text-align: center;
   height:258px;
